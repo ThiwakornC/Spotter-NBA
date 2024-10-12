@@ -58,6 +58,10 @@ Plt Bos ย้อนหลังเพื่อดูสถิติการ �
 ![image](https://github.com/user-attachments/assets/976c71be-7378-47fd-805b-4568b3287f4a)
 
 
+![image](https://github.com/user-attachments/assets/ceb32f40-cc5d-4fb7-9e59-1ffa891056bc)
+
+
+
 
 
 
