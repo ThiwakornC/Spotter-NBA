@@ -14,6 +14,8 @@ hello ได้ยัง
 ใน mini-project นี้ เราจะแบ่งการนำเสนอเป็น 2 ส่วน 
 
 Part 1: จะพาไปทำความรู้จักกับ Stephen Curry 
+Part 2:
+Part 3: 
 
 
 
