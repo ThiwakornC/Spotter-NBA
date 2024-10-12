@@ -43,6 +43,7 @@ Stephen Curry: ติดอันดับผู้เล่นที่ชู�
 
 ![image](https://github.com/user-attachments/assets/3188390d-4eec-4d7e-8038-12d1f808f62b)
 
+# Part 2:
 ![image](https://github.com/user-attachments/assets/610a4506-fb2a-463d-8bb4-91f7e65123f6)
 
 ![image](https://github.com/user-attachments/assets/6a1b86f6-7363-47e4-bb17-18d5ff4631a9)
