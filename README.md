@@ -20,7 +20,11 @@ basketball
 ลูกโทษ: ถ้าเราโดนฝ่ายตรงข้ามทำฟาวล์ เช่น ผลัก หรือชน เราจะได้ชู้ตลูกโทษ ซึ่งจะยืนชู้ตใกล้ๆ ห่วง ลูกโทษ 1 ลูกจะได้ 1 คะแนน
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/749be5b2-8b16-484b-a885-2a36cec9fce6)
+
+
+
+
 
 
 
