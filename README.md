@@ -11,8 +11,14 @@ hello ได้ยัง
 
 # Mini-Project : อิทธิพลของ Stephen Curry ต่อวงการ บาสเกตบอล
 
+ใน mini-project นี้ เราจะแบ่งการนำเสนอเป็น 2 ส่วน 
+
+Part 1: จะพาไปทำความรู้จักกับ Stephen Curry 
 
 
+
+
+# Part1 : 
 
 basketball
 บาสเกตบอล คืออะไร?
