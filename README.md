@@ -57,8 +57,7 @@ Stephen Curry: ติดอันดับผู้เล่นที่ชู�
 Bos ได้แชมในปี 2024 ดูจาก ความสัมพันธ์ Win rate กับ 3 แต้ม avrg
 Plt Bos ย้อนหลังเพื่อดูสถิติการ ชู็ต 3 แต้ม
 
-![image](https://github.com/user-attachments/assets/976c71be-7378-47fd-805b-4568b3287f4a)
-
+![image](https://github.com/user-attachments/assets/f662289f-1e79-4ebc-841f-90f91c03e449)
 
 ![image](https://github.com/user-attachments/assets/ceb32f40-cc5d-4fb7-9e59-1ffa891056bc)
 
