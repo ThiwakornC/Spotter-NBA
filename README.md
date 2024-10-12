@@ -22,8 +22,7 @@ basketball
 
 ![image](https://github.com/user-attachments/assets/749be5b2-8b16-484b-a885-2a36cec9fce6)
 
-Stephen Curry คือผู้เล่นที่ชู๊ต 3 คะแนนลงมากที่สุดใน
-
+กราฟนี้แสดง สถิติผู้เล่นที่ทำคะแนน 3 แต้ม มากนับตั้งแต่มีการเก็บสถิติโดย Stephen Curry เราจะเห็นว่าระยะห่างระหว่าง Stephen Curry กับอันดับที่ 2 James Harden มีระยะกันค่อนข้างมาก
 
 
 
