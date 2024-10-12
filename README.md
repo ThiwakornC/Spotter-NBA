@@ -30,6 +30,17 @@ basketball
 
 Stephen Curry: ติดอันดับผู้เล่นที่ชู๊ต 3 คะแนนลงมากที่สุดใน 1 ฤดูกาล ถึง 6 ฤดูกาล (2015-2016, 2023-2024, 2018-2019, 2020-2021, 2016-2017) โดยเฉพาะใน ฤดูกาล 2016 เค้าทำได้ถึง 402 ลูก มากที่สุดเป็นอันดับที่ 1 แสดงให้เห็นถึงความสม่ำเสมอในการชู้ต 3 แต้มของเขา และเป็นเครื่องยืนยันว่าเขาคือสุดยอดมือปืน 3 แต้มตลอดกาลของ NBA 
 
+![image](https://github.com/user-attachments/assets/3188390d-4eec-4d7e-8038-12d1f808f62b)
+
+![image](https://github.com/user-attachments/assets/610a4506-fb2a-463d-8bb4-91f7e65123f6)
+
+![image](https://github.com/user-attachments/assets/6a1b86f6-7363-47e4-bb17-18d5ff4631a9)
+
+![image](https://github.com/user-attachments/assets/2421a1a0-7c79-4822-bf78-edf347a1628b)
+
+
+
+
 
 
 
