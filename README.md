@@ -8,13 +8,6 @@ Part 1: Stephen Curry
 
 Part 2: BBB
 
-![image](https://github.com/user-attachments/assets/f048bb50-447b-4bf7-a9a1-425091817e97)
-
-![image](https://github.com/user-attachments/assets/bcd07697-7121-4acc-9731-83a568a73e27)
-
-![image](https://github.com/user-attachments/assets/6345969f-9099-445d-8253-b26852aace8e)
-
-
 Part 3: CCC
 
 # Part 1: Stephen Curry
@@ -46,7 +39,11 @@ Stephen Curry: ติดอันดับผู้เล่นที่ทำ�
 
 # Part 2:
 
+![image](https://github.com/user-attachments/assets/f048bb50-447b-4bf7-a9a1-425091817e97)
 
+![image](https://github.com/user-attachments/assets/bcd07697-7121-4acc-9731-83a568a73e27)
+
+![image](https://github.com/user-attachments/assets/6345969f-9099-445d-8253-b26852aace8e)
 
 # Part 3:
 Boston Celtics ได้แชมป์ในปี 2024 หากวิเคราะห์จากความสัมพันธ์ Win rate กับ คะแนนเฉลี่ย 3 คะแนน
