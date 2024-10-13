@@ -1,15 +1,5 @@
-# Spotter-NBA
-
-
-พีนัทเองจ๊ะ
-ฟหกฟหดฟหกฟหกหด
-
-hello ได้ยัง
-
-
-
-
 # Mini-Project : อิทธิพลของ Stephen Curry ต่อวงการ บาสเกตบอล
+# The Impact of Stephen Curry on the Evolution of Contemporary NBA Basketball Tactics
 
 ใน mini-project นี้ เราจะแบ่งการนำเสนอเป็น 2 ส่วน 
 
