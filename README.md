@@ -1,16 +1,14 @@
-# Mini-Project : อิทธิพลของ Stephen Curry ต่อวงการ บาสเกตบอล
+# Mini-Project: อิทธิพลของ Stephen Curry ต่อวงการบาสเกตบอลในสหรัฐอเมริกา (NBA)
 # The Impact of Stephen Curry on the Evolution of Contemporary NBA Basketball Tactics
 
-ใน mini-project นี้ เราจะแบ่งการนำเสนอเป็น 2 ส่วน 
+   นับตั้งแต่ปี 2010 เป็นต้นมา หลายทีมในวงการบาสเกตบอลสหรัฐอเมริกา หรือ NBA มีการเปลี่ยนแปลงรูปแบบและแผนการการเล่นอย่างสิ้นเชิง เพื่อโอกาสในการเข้าถึงแชมป์ อย่างไรก็ตามการเปลี่ยนแปลงเหล่านี้ได้รับอิทธิพลจากหนึ่งในผู้เล่นที่ชื่อ Stephen Curry ซึ่งใน mini-project ชิ้นนี้ จะแบ่งการวิเคราะห์ออกเป็น 3 ส่วน ได้แก่
 
-Part 1: จะพาไปทำความรู้จักกับ Stephen Curry 
+Part 1: Stephen Curry 
 Part 2:
-Part 3: 
+Part 3:
 
-
-
-
-# Part1 : 
+# Part1: Stephen Curry
+  Stephen Curry คือใคร? ทำไมเขาถึงมีอิทธิพลต่อวงการบาสเกตบอลในสหรัฐอเมริกา (NBA) ในช่วงระยะเวลาสิบกว่าปีนี้?
 
 basketball
 บาสเกตบอล คืออะไร?
