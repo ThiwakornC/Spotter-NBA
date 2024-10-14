@@ -70,6 +70,13 @@ Golden State Warriors ใช้ 3 คะแนน เป็นหลักใน
 จากกราฟจะเห็นแนวโน้มการทำคะแนน 3 คะแนน ในบาสเกตบอล NBA ตั้งแต่ฤดูกาล 1980 ถึง 2024 โดยพบว่าอัตราการทำคะแนน 3 คะแนน มีแนวโน้มเพิ่มขึ้นอย่างชัดเจน ตลอดระยะเวลา 44 ปี ตั้งแต่ปี 2010 เป็นต้นมา มีการเพิ่มขึ้นอย่างรวดเร็วและต่อเนื่อง ถ้าเปรียบเทียบกับในช่วงแรก (1980-1990)
 
 ![image](https://github.com/user-attachments/assets/3f1e222c-11c9-4716-954d-c437cb9eb636)
+![image](https://github.com/user-attachments/assets/2271d77e-7b59-40b1-af92-a31c37088762)
+![image](https://github.com/user-attachments/assets/3045bb90-f673-4246-9237-f86e6ef7c96f)
+![image](https://github.com/user-attachments/assets/b7c0fd1b-7107-46f5-bcca-9e7108a81542)
+![image](https://github.com/user-attachments/assets/006e6a53-7658-4ac8-a644-e0602ce04763)
+
+
+
 
 
 # Part 3: Winner in 2024 with 3 Points
