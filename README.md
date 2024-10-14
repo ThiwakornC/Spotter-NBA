@@ -27,8 +27,7 @@ Basketball
 
 ![image](https://github.com/user-attachments/assets/a2a0dae9-8fbd-4030-82cb-8de459931285)
 
-![image](https://github.com/user-attachments/assets/e02feb32-d42a-4e94-9002-0d591ea1f5de)
-
+![image](https://github.com/user-attachments/assets/761f8104-bbae-4e57-aa5e-7d8a05a8d03c)
 
 กราฟต่อไปนี้ แสดงสถิติผู้เล่นที่ทำคะแนน 3 คะแนน มากที่สุดนับตั้งแต่มีการเก็บสถิติ ซึ่งเห็นได้ว่า Stephen Curry เป็นผู้เล่นที่ทำคะแนน 3 คะแนนมากที่สุดอันดับที่ 1 สิ่งที่น่าสนใจคือ ระยะห่างการทำคะแนน 3 คะแนน ระหว่าง Stephen Curry และผู้เล่นคนอื่น ๆ สามารถยืนยันได้อย่างชัดเจนว่า เขาเป็นหนึ่งในผู้เล่นที่ทำคะแนน 3 คะแนน ได้ดีที่สุดในประวัติศาสตร์ของ NBA
 
