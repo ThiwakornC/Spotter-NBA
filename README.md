@@ -51,7 +51,8 @@ Stephen Curry: ติดอันดับผู้เล่นที่ทำ�
 
 ![image](https://github.com/user-attachments/assets/6345969f-9099-445d-8253-b26852aace8e)
 
-![image](https://github.com/user-attachments/assets/5c42947e-0ed0-4199-a7c7-f11b32238f34)
+![image](https://github.com/user-attachments/assets/5481ac81-9eb4-46b1-854e-58da65e06fcf)
+
 
 # Part 3:
 Boston Celtics ได้แชมป์ในปี 2024 หากวิเคราะห์จากความสัมพันธ์ Win rate กับ คะแนนเฉลี่ย 3 คะแนน
