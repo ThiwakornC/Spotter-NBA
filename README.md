@@ -25,6 +25,8 @@ Basketball
 
 โยนลูกโทษ: หากผู้เล่นถูกฝ่ายตรงข้ามเล่นนอกกติกา(ฟาล์ว) เช่น ผลักหรือชน ฝ่ายที่ถูกทำฟาล์วจะได้โยนลูกโทษ ซึ่งตำแหน่งการโยนลูกโทษจะอยู่ในเขตวงกลม Free Throw Line การโยนลูกบอลลงห่วงในระยะโยนลูกโทษ 1 ลูก จะเป็นการทำคะแนน 1 คะแนน
 
+![image](https://github.com/user-attachments/assets/a2a0dae9-8fbd-4030-82cb-8de459931285)
+
 ![image](https://github.com/user-attachments/assets/e02feb32-d42a-4e94-9002-0d591ea1f5de)
 
 
