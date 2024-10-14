@@ -63,6 +63,8 @@ Boston Celtics ได้แชมป์ในปี 2024 หากวิเค�
 
 ![image](https://github.com/user-attachments/assets/ac76c42f-cbae-4896-9ce5-3637bc300f12)
 
+![image](https://github.com/user-attachments/assets/7fa9c323-6858-4169-9764-7c5f99c80b09)
+
 ![image](https://github.com/user-attachments/assets/ceb32f40-cc5d-4fb7-9e59-1ffa891056bc)
 
 
