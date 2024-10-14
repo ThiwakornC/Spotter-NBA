@@ -39,9 +39,7 @@ Stephen Curry: ติดอันดับผู้เล่นที่ทำ�
 
 ![image](https://github.com/user-attachments/assets/7ff1c167-db58-4595-8bdb-62153fff1c15)
 
-![image](https://github.com/user-attachments/assets/8733e0d8-e984-4bff-92cb-286c8763536d)
 
-![image](https://github.com/user-attachments/assets/e6490d82-80b6-41b8-b484-3dc9a5ed7e53)
 
 
 # Part 2:
