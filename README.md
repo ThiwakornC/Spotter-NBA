@@ -6,9 +6,9 @@
 
 Part 1: Basketball & Stephen Curry
 
-Part 2: BBB
+Part 2: Trend of 3 Points
 
-Part 3: CCC
+Part 3: Winner in 2024 with 3 Points
 
 # Part 1: Stephen Curry
   
