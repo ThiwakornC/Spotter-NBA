@@ -89,7 +89,7 @@ Golden State Warriors ใช้ 3 คะแนน เป็นหลักใน
 
 
 
-# Part 3: Winner in 2024 with 3 Points
+# Part 3: Case Study - Boston Celtics Winner in 2024 with 3 Points
 ![image](https://github.com/user-attachments/assets/6da3afb1-ac85-4034-8b50-bab81cf109ea)
 Boston Celtics ได้แชมป์ในปี 2024 หากวิเคราะห์จากความสัมพันธ์ Win rate กับ คะแนนเฉลี่ย 3 คะแนน
 
