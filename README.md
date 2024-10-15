@@ -1,5 +1,5 @@
 # Mini-Project 
-# อิทธิพลของ Stephen Curry กับวงการบาสเกตบอลสหรัฐอเมริกาที่เปลี่ยนไป
+# อิทธิพลของ Stephen Curry กับวงการบาสเกตบอล NBA ที่เปลี่ยนไป
 
 Data Source: https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Player+Totals.csv
 
