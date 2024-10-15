@@ -1,7 +1,7 @@
 # Mini-Project 
 # อิทธิพลของ Stephen Curry ต่อวงการบาสเกตบอลสหรัฐอเมริกา
 # The Impact of Stephen Curry on the NBA
-
+Data Sorce: https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Player+Totals.csv
 นับตั้งแต่ปี 2010 เป็นต้นมา หลายทีมในวงการบาสเกตบอลสหรัฐอเมริกา หรือ NBA มีการเปลี่ยนแปลงรูปแบบและแผนการการเล่นอย่างสิ้นเชิง เพื่อโอกาสในการเข้าถึงแชมป์ อย่างไรก็ตามการเปลี่ยนแปลงเหล่านี้ได้รับอิทธิพลจากหนึ่งในผู้เล่นที่ชื่อ Stephen Curry ซึ่งใน Mini-Project ชิ้นนี้ จะแบ่งการวิเคราะห์ออกเป็น 3 ส่วน ได้แก่
 
 Part 1: Basketball & Stephen Curry
