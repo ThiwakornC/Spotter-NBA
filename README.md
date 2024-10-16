@@ -106,7 +106,7 @@ Golden State Warriors ใช้แผนการเล่นที่เน้�
 
 Boston Celtics ได้แชมป์ใน Season 2024 หากวิเคราะห์จากความสัมพันธ์ Win rate กับ คะแนนเฉลี่ย 3 คะแนน
 
-![image](https://github.com/user-attachments/assets/4a5cf845-4e61-4978-8cff-80c271c9e78a)
+![image](https://github.com/user-attachments/assets/1222deea-d27e-4d4e-8675-cf0f71e57e2c)
 
 ![image](https://github.com/user-attachments/assets/29b29d82-8af4-4bf7-94f2-99eb1b7cb98c)
 
