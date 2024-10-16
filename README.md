@@ -102,11 +102,11 @@ Golden State Warriors ใช้แผนการเล่นที่เน้�
 
 # Part 3: Case Study - Boston Celtics Winner in 2024 with 3 Points
 
-![image](https://github.com/user-attachments/assets/dbef4909-3972-45d9-8811-6ce9365abfdb)
+![image](https://github.com/user-attachments/assets/1222deea-d27e-4d4e-8675-cf0f71e57e2c)
 
 Boston Celtics ได้แชมป์ใน Season 2024 หากวิเคราะห์จากความสัมพันธ์ Win rate กับ คะแนนเฉลี่ย 3 คะแนน
 
-![image](https://github.com/user-attachments/assets/1222deea-d27e-4d4e-8675-cf0f71e57e2c)
+![image](https://github.com/user-attachments/assets/0e8550b9-f0c6-42f7-a28e-acf1e13a7ba8)
 
 ![image](https://github.com/user-attachments/assets/29b29d82-8af4-4bf7-94f2-99eb1b7cb98c)
 
