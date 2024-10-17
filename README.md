@@ -1,4 +1,4 @@
-# <u>Mini-Project<u/>
+# Mini-Project
 # อิทธิพลของ Stephen Curry กับวงการบาสเกตบอล NBA ที่เปลี่ยนไป
 
 Data Source: https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=Player+Totals.csv
@@ -11,7 +11,7 @@ Part 2: Trend of 3 Points
 
 Part 3: Case Study - Boston Celtics Winner in 2024 with 3 Points
 
-# Part 1: Basketball & Stephen Curry
+# <u>Part 1</u>: Basketball & Stephen Curry
   
 Basketball
 
