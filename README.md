@@ -11,7 +11,7 @@ Part 2: Trend of 3 Points
 
 Part 3: Case Study - Boston Celtics Winner in 2024 with 3 Points
 
-# <u>Part 1</u>: Basketball & Stephen Curry
+# Part 1 : Basketball & Stephen Curry
   
 Basketball
 
